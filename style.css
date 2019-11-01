@@ -1,0 +1,27 @@
+
+body{
+	height: 100%;
+	background-image: url("aaadk.jpg");
+	font-family: sans-serif;
+
+
+}
+.box {
+	height: 600px;
+	width: 100%;
+	background-color: black;
+	background-repeat: no-repeat;
+
+	
+}
+
+.text p{ 
+border:0px solid white;
+background-color: red;
+color: white;
+margin-left: 80%;
+margin-top:600px;
+word-spacing: 15px;
+font-size: 30px;
+ }
+
